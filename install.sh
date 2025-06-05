@@ -24,7 +24,7 @@ echo "$ASCII_ART"
 display_x_intro() {
     echo "$ASCII_ART"
     echo ""
-    echo "Welcome to the CS Surabaya X Channel!"
+    echo "Welcome to the union-bot!"
     echo "Follow us for updates, tips, and more: https://x.com/0x000123"
     echo "Stay connected with the latest blockchain and crypto insights!"
     echo ""
