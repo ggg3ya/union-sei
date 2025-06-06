@@ -1,1 +1,1 @@
-# union-sei SOON!
+# unlock at 50 star
